@@ -9,6 +9,8 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print('Что за')
 print('Ботва')
 print('В')
 print('Голове')
+print('У')
